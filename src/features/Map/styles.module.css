@@ -1,0 +1,8 @@
+.map {
+  width: 100%;
+  height: calc(95vh - 377px);
+  margin: 0;
+  padding: 0;
+  border: none;
+  object-fit: cover;
+}

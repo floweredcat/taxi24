@@ -1,0 +1,23 @@
+.wrapper {
+  max-width: 390px;
+  border-radius: 19.5px;
+  box-shadow: 0 0 20px 0 rgba(220, 220, 220);
+  height: fit-content;
+  align-self: center;
+  margin: 12px;
+}
+
+.page {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100vw;
+  padding: 12px;
+  width: calc(100vw - 24px);
+  padding-bottom: 24px;
+}
+
+.img {
+  max-height: 100px;
+  object-fit: contain;
+}
